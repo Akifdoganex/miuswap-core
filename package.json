@@ -1,14 +1,14 @@
 {
-  "name": "@miuswap-libs/miuswap-core",
+  "name": "@miuswap/miuswap-core",
   "description": "🎛 Core contracts for the miuswap protocol",
-  "version": "0.1.0",
+  "version": "1.1.1",
   "homepage": "https://miuswap.finance",
   "repository": {
     "type": "git",
     "url": "https://github.com/miuswap/miuswap-core.git"
   },
   "publishConfig": {
-    "registry": "http://registry.npmjs.org"
+    "registry": "https://registry.npmjs.org"
   },
   "files": [
     "contracts",
